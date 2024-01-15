@@ -11,4 +11,4 @@ def lambda_handler(event, context):
             try:
                 instance.start()
             except:
-                print("Something went wrong")
+                print("Some Error")
