@@ -1,6 +1,6 @@
 ## Introduction
 
-Managing AWS EC2 instances manually can be time-consuming and inefficient, especially when dealing with multiple instances. However, by leveraging the power of automation, you can significantly simplify and streamline this process. In this blog post, we will explore how to automate the management of AWS EC2 instances using AWS Lambda, EventBridge, and the Boto3 Python library.
+Efficiently Managing AWS EC2 instances manually can be time-consuming and ineffective, particularly when handling numerous instances. Nonetheless, through the utilization of automation, you can greatly simplify and optimize this process. This blog post delves into automating the management of AWS EC2 instances using AWS Lambda, EventBridge, and the Boto3 Python library to enhance efficiency and eliminate manual errors.
 
 ## Creating the Lambda Function
 
